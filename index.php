@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Заголовок №1</h1>
+    <h1>Мой Заголовок №1</h1>
     <script src="/js/main.js"></script> 
 </body>
 </html>
